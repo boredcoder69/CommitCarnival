@@ -8,7 +8,7 @@ b) git repo
 c) git init 
 d) git make
 
-ans:
+ans:a
 
 Q2. Which command checks the current repo status?
 a) git check
