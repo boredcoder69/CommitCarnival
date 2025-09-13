@@ -1,16 +1,16 @@
 jumbled words (type the answers next to the questions)
 
     section 1 (git)
-         imomct
-         hbguti
-         yosrproeti
-         ersivon
-         hups
+         imomct commit
+         hbguti github
+         yosrproeti repository
+         ersivon version
+         hups push
 
    section 2 (general)
-         idisikb
-         ebiv
-         otpmurec
-         nepo osucer
-         nvnibcleii
+         idisikb skibidi
+         ebiv vibe
+         otpmurec computer
+         nepo osucer open source
+         nvnibcleii invinclible
 
